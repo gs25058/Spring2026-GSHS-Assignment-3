@@ -13,7 +13,7 @@ Implement the `implement_xor` and `get_input_tensors` function in `mlp.py` to tr
    - Return the resulting tensors as tuple `(x_tensor, y_tensor)`.
 
 2. The `implement_xor` function should:
-   - Most of the starter code is already provided. Complete the sections marked as: 
+   - Most of the starter code is already provided. Complete the sections marked with: 
    `# Implement your code here`
    - Fill the input, hidden, and output layer dimensions to complete the MLP model.
    - Experiment with different dimensions for the hidden layer (e.g., 2, 4, 8) to observe their effect on learning the XOR function.
